@@ -3,7 +3,7 @@
 
 #pragma once
 #include <string>
-#include "tile.h"
+#include "tiles/tile.h"
 
 using std::string;
 class Tile;

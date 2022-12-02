@@ -2,14 +2,14 @@
 #define DUNGEONCRAWLER_H
 
 #pragma once
-#include "abstractui.h"
-#include "terminalui.h"
-#include "level.h"
+#include "ui/abstractui.h"
+#include "ui/tui/terminalui.h"
+#include "level/level.h"
 
 // nötig?
 #include <vector>
 #include "character.h"
-#include "npc.h"
+#include "npc/npc.h"
 
 class AbstractUI;
 class TerminalUI;

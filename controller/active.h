@@ -3,7 +3,7 @@
 
 #pragma once
 #include <vector>
-#include "passive.h"
+#include "controller/passive.h"
 
 using std::vector;
 
